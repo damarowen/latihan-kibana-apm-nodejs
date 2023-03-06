@@ -1,0 +1,9 @@
+*.node
+node_modules
+
+*.txt
+*.csv
+*.json
+!package.json
+
+.clinic
